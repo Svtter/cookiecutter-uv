@@ -1,7 +1,7 @@
 {
-  "author": "svter",
+  "author": "svtter",
   "email": "svtter@qq.com",
-  "author_github_handle": "svter",
+  "author_github_handle": "svtter",
   "project_name": "example-project",
   "project_slug": "{{cookiecutter.project_name|lower|replace('-', '_')}}",
   "project_description": "This is a template repository for Python projects that use uv for their dependency management.",
